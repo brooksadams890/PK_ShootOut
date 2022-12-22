@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PK_Shootout/1.0.0": {
+        "runtime": {
+          "PK_Shootout.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PK_Shootout/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
